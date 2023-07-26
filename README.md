@@ -7,4 +7,4 @@ Scraped tabulated data is available in [ChatBoxInfo_df](ChatBoxInfo_df.csv). Scr
 
 If you want processed dataframe refer to [ProcessedDataForChatBot.csv](ProcessedDataForChatBot.csv).
 
-[WizChat](WizChar.ipynb) uses FAISS (Facebook AI similarity search). The embedding process took time since the text was large, so I made to [Embeddings](Embeddings.csv) which you can directly import and skip steps.
+[WizChat](WizChar.ipynb) uses FAISS (Facebook AI similarity search). The embedding process took time since the text was large, so I made [Embeddings](Embeddings.csv) csv, which you can directly import and skip steps and save lots of time.
